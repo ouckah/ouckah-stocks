@@ -1,0 +1,6 @@
+# python / jupyter
+__pycache__
+.ipynb_checkpoints
+
+# configurations
+config.py
